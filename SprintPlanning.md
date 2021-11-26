@@ -1,22 +1,20 @@
 # Sprint Planning
-## *Sprint 1*
+## *Sprint 2*
 ---
 ### Objectif du sprint : 
-    Création de l'espace client pour l'admin et le conseiller
+    Création des vendeurs et des fonctionnalité liées aux vendeurs
 ---
 ### Tâches selectionnées pour le sprint :
 
-#### *Admin*
-* En tant qu'administrateur je veux créer de nouveaux utilisateurs
+#### *Vendeur*
 
-* En tant qu'administrateur, je veux attribuer un rôle à un utilisateur
+* En tant que vendeur, je veux accéder à mon espace personnel afin de suivre l'avancement de mon dossier
+
+  -  On va partir du principe que la connexion à l'espace client vendeur se fait uniquement avec un lien unique et sans mot de passe pour l'instant
 ---
-#### *Conseiller*
-* En tant que conseiller, je veux pouvoir me connecter à mon espace sécurisé
-
-* En tant que conseiller, je veux visualiser mes derniers biens en vente afin de pouvoir travailler dessus
-
-* En tant que conseiller, je veux créer un nouveau bien afin d'améliorer sa visibilité
-
-* En tant que conseiller, je veux visualiser les messages envoyés par les acheteurs afin de répondre à leurs questions
+* En tant que vendeur, je veux visualiser l'état d'avancement de ma vente afin de contrôler le travail de mon conseiller
 ---
+* En tant que conseiller, je veux renseigner les visites programmées pour un bien afin de tenir le vendeur au courant
+---
+* En tant que vendeur, je veux choisir un mot de passe afin d'accéder à mon espace personnel
+    - Le choix du mot de passe se fait suite à la réception d'un email envoyé à la création du compte
