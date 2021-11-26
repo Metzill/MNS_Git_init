@@ -1,60 +1,41 @@
 # Découpage des tâches :
-## Sprint 1
+## Sprint 2
 ---
-#### *Admin*
-ID : En tant qu'administrateur je veux créer de nouveaux utilisateurs
+#### *Vendeur*
 
-Tâches sous-jacents : 
-* créer un espace utilisateur
-* mettre en place un système de connexion
-* mettre en place la bdd du système de connexion
-* mettre en place le système de création d'utilisateur
-* mettre en place la bdd d'utilisateur
+ID :  En tant que vendeur, je veux accéder à mon espace personnel afin de suivre l'avancement de mon dossier
 
-Complexité de découpage : 25
+Tâches sous-jacentes :
+* Création de l'interface de l'espace client pour les vendeurs
+* Création BDD des dossiers en cours
+* Création d'une page avec les informations pour le dossier (nombre de vues, offre d'achat, aperçu de la page de l'offren visites prévues)
+* Création d'une bdd pour les offre d'achats
+* Création d'une bdd pour les visites prévues
+
+Complexité de découpage : 50
 
 ---
-ID :  En tant qu'administrateur, je veux attribuer un rôle à un utilisateur
+ID : En tant que vendeur, je veux visualiser l'état d'avancement de ma vente afin de contrôler le travail de mon conseiller
 
-Tâches sous-jacents : 
-* création de la fonctionnalité d'attribution du rôle
+Tâches sous-jacentes :
+
+Complexité de découpage :
+
+---
+ID : En tant que conseiller, je veux renseigner les visites programmées pour un bien afin de tenir le vendeur au courant
+
+Tâches sous-jacentes :
+* ~~Création d'une bdd pour les dates de visites~~ (tâches déplacés vers le tâches de suivi d'avancement du dossier d'un vendeur)
+* Formulaire de renseignement de visite
+
+Complexité de découpage : 10
+
+---
+ID : En tant que vendeur, je veux choisir un mot de passe afin d'accéder à mon espace personnel
+
+Tâches sous-jacentes :
+* Mise en place d'un système de mail transactionnel automatique
 
 Complexité de découpage : 1
-
----
-#### *Conseiller*
-
-ID : En tant que conseiller, je veux pouvoir me connecter à mon espace sécurisé 
-
-Tâches sous-jacents : 
-* changer l'interface de l'espace client selon le type d'utilisateur
-
-Complexité de découpage : 1
-
----
-ID : En tant que conseiller, je veux visualiser mes derniers biens en vente afin de pouvoir travailler dessus
-
-Tâches sous-jacents : 
-* création de la bdd des biens en vente
-* afficher la liste dans l'interface de l'espace client
-
-Complexité de découpage : 5
-
----
-ID : En tant que conseiller, je veux créer un nouveau bien afin d'améliorer sa visibilité
-
-Tâches sous-jacents : 
-* ajouter une fonction d'insertion de bien dans la bdd
-
-Complexité de découpage : 1
-
----
-ID : En tant que conseiller, je veux visualiser les messages envoyés par les acheteurs afin de répondre à leurs questions
-
-Tâches sous-jacents : 
-* mise en place d'un système de chat
-* mise en place de la bdd pour le système de chat
-
-Complexité de découpage : 15
 
 ---
