@@ -1,43 +1,29 @@
 # Sprint Review
-## Sprint 1
+## Sprint 2
 ---
 ### Ressenti découpage :
 
-Il n'y pas de tâche qui m'est particulièrement posé problème à découper
+Moins de retard que sur le sprint 1 lors de la réalisation du sprint 2 donc le découpage a pu être mieux réfléchit et mieux exécuté
 
 ### Tâches selectionnées pour le sprint :
 
-#### *Admin*
-ID : En tant qu'administrateur je veux créer de nouveaux utilisateurs
+#### *Vendeur*
+
+ID : En tant que vendeur, je veux accéder à mon espace personnel afin de suivre l'avancement de mon dossier
 
 État de découpage : Découpée
 
 ---
-ID :  En tant qu'administrateur, je veux attribuer un rôle à un utilisateur
+ID : En tant que vendeur, je veux visualiser l'état d'avancement de ma vente afin de contrôler le travail de mon conseiller
 
 État de découpage : Découpée
 
 ---
-#### *Conseiller*
-ID :  En tant que conseiller, je veux pouvoir me connecter à mon espace sécurisé
+ID : En tant que conseiller, je veux renseigner les visites programmées pour un bien afin de tenir le vendeur au courant
 
-État de découpage :  Découpée
-
----
-ID : En tant que conseiller, je veux visualiser mes derniers biens en vente afin de pouvoir travailler dessus
-
-État de découpage :  Découpée
+État de découpage : Découpée
 
 ---
+ID : En tant que vendeur, je veux choisir un mot de passe afin d'accéder à mon espace personnel
 
-ID : En tant que conseiller, je veux créer un nouveau bien afin d'améliorer sa visibilité
-
-État de découpage :  Découpée
-
----
-
-ID : En tant que conseiller, je veux visualiser les messages envoyés par les acheteurs afin de répondre à leurs questions
-
-État de découpage :  Découpée
-
----
+État de découpage : Découpée
